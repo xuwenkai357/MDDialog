@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="item">
+        <item>AAAAAAAAA</item>
+        <item>BBBBBBBBB</item>
+        <item>CCCCCCCCC</item>
+        <item>DDDDDDDDD</item>
+        <item>EEEEEEEEE</item>
+    </array>
+
+</resources>
